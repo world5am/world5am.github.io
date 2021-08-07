@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on world5am -- deus ex machina</title>
+    <link>https://world5am.github.io/posts/</link>
+    <description>Recent content in Posts on world5am -- deus ex machina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Aug 2021 01:50:28 +0530</lastBuildDate><atom:link href="https://world5am.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are We Gonna Have a Good Day?</title>
+      <link>https://world5am.github.io/posts/first-post/</link>
+      <pubDate>Sun, 08 Aug 2021 01:50:28 +0530</pubDate>
+      
+      <guid>https://world5am.github.io/posts/first-post/</guid>
+      <description>This is a header This is not a header
+import os os.batch(l) </description>
+    </item>
+    
+  </channel>
+</rss>
