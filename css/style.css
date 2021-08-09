@@ -29,7 +29,7 @@ pre {
   padding: 1em;
   overflow-x: auto;
 }
-code { background: #f9f9f9; }
+code { background: #00f9f9; }
 pre code { background: none; }
 
 /* misc elements */
@@ -49,3 +49,11 @@ table {
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
 thead, tfoot, tr:nth-child(even) { background: #eee; }
+
+a:visited {
+color: #0000ee;
+}
+
+h1 {
+  line-height: 1.2em;
+}

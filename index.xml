@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on A minimal Hugo website</title>
-    <link>/</link>
-    <description>Recent content in Home on A minimal Hugo website</description>
+    <title>world5am on truth is against noobs</title>
+    <link>https://world5am.github.io/</link>
+    <description>Recent content in world5am on truth is against noobs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Aug 2021 01:50:28 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Aug 2021 01:50:28 +0530</lastBuildDate><atom:link href="https://world5am.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Are We Gonna Have a Good Day?</title>
-      <link>/posts/first-post/</link>
+      <link>https://world5am.github.io/posts/first-post/</link>
       <pubDate>Sun, 08 Aug 2021 01:50:28 +0530</pubDate>
       
-      <guid>/posts/first-post/</guid>
+      <guid>https://world5am.github.io/posts/first-post/</guid>
       <description>This is a header This is not a header
 import os os.batch(l) </description>
     </item>
     
     <item>
       <title>About Hugo XMin</title>
-      <link>/about/</link>
+      <link>https://world5am.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://world5am.github.io/about/</guid>
       <description>XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal.</description>
     </item>
     
